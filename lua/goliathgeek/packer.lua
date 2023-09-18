@@ -38,4 +38,11 @@ return require('packer').startup(function(use)
  }
  use('github/copilot.vim')
  use('hrsh7th/nvim-cmp')
+ use{'akinsho/toggleterm.nvim', tag = '*'}
+ use({
+   'kdheepak/lazygit.nvim',
+     requires = {
+        "nvim-lua/plenary.nvim",
+    },
+  })
 end)
