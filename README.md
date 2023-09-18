@@ -20,3 +20,7 @@
    - For MacOs `brew install gcc`
    - For Linux `sudo apt install gcc`
    - For Windows `choco install gcc`
+- ripgrep
+    - For MacOs `brew install ripgrep`
+    - For Linux `sudo apt-get install ripgrep`
+    - For Windows `choco install ripgrep`
