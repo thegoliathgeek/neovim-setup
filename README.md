@@ -45,3 +45,12 @@ alias nvim='snap run nvim'
 ```
 emulate sh -c 'source /etc/profile'
 ```
+
+## Shortcuts Defined
+* `<leader>` is set to `<space>`
+* `<leader>lg` is set to `:LazyGit`
+* `<leader>u` is set to `:UndotreeToggle`
+* `<leader>ff` is set to `:Telescope find_files`
+* `<leader>to` is set to `:ToggleTerm`
+* `ctrl+j` is set to `AutoComplete`
+* `enter` is set to `PreSelectAutoComplete`
